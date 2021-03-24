@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/dow/MyWebsite/web/index.jsp</file>
+            <file>file:/E:/dow/MyWebsite/src/java/Servlet/EditPointStudent.java</file>
+            <file>file:/E:/dow/MyWebsite/src/java/entities/Point.java</file>
+            <file>file:/E:/dow/MyWebsite/web/Login.jsp</file>
+            <file>file:/E:/dow/MyWebsite/src/java/DAO/PhanTramDiemDAO.java</file>
+            <file>file:/E:/dow/MyWebsite/src/java/Servlet/CheckLoginUser.java</file>
+            <file>file:/E:/dow/MyWebsite/src/java/DAO/SubjectDAO.java</file>
+            <file>file:/E:/dow/MyWebsite/web/Home.jsp</file>
+            <file>file:/E:/dow/MyWebsite/src/java/Servlet/listClassic.java</file>
+            <file>file:/E:/dow/MyWebsite/src/java/Servlet/editPhanTram.java</file>
+            <file>file:/E:/dow/MyWebsite/src/java/Servlet/EditPoint.java</file>
+            <file>file:/E:/dow/MyWebsite/web/EditPoint.jsp</file>
+            <file>file:/E:/dow/MyWebsite/src/java/DAO/PointDAO.java</file>
+            <file>file:/E:/dow/MyWebsite/src/java/entities/Student.java</file>
+        </group>
+    </open-files>
+</project-private>
